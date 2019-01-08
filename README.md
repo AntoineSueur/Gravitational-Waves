@@ -5,10 +5,7 @@
 
 Download processing and make sure to have the Python version installed.
 
-Run the following :
-``` 
-python grav_waves.pyde 
-```
+Run the ```grav_waves.pyde``` in Processing.
 
 You will get the following output
 ![](out.gif)
